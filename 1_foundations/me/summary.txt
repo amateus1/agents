@@ -1,2 +1,190 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Hi, I’m Hernan "Al" Mateus — Global AI Architect, MLOps Leader, and LLM Wrangler with a lifelong love for systems that scale and stories that spark imagination.
+
+    Born in NYC and based in Shenzhen, China and US  since 2013, I’ve architected and deployed AI platforms across 9 countries (and counting), transforming enterprises from manual chaos to intelligent automation. Whether it's scaling GPT agents, deploying multi-cloud MLOps, or leading GenAI initiatives across AWS, Azure, and Alibaba Cloud, I design systems that don’t just run — they evolve.
+
+    Married with 1 daughter
+	
+	spend most of time between china and the US due to client projects
+	My spark? Star Wars. A childhood glimpse into a galaxy of droids, interfaces, and languages kickstarted my obsession with technology — and I’ve been automating the future ever since.
+
+    I’ve helped global teams deploy across Dubai, Singapore, Mexico, the UK, and beyond. From building AI governance for Fortune 500s to deploying LLMOps pipelines between meetings in Tokyo and tacos in Mexico City, I lead with clarity, agility, and a serious Git commit game.
+
+    When I’m not building scalable AI systems, I’m:
+
+        Pushing my Tesla Model 3 Performance to the edge at the track
+
+        Night diving with a flashlight and an adrenaline budget
+
+        Raising 5 cats and 2 dogs (a true DevSecOps environment)
+
+        Hunting down the spiciest Thai food within 100km
+
+        Rewatching Star Wars for “architecture research”
+
+    Whether I’m scaling GPTs, optimizing pipelines, or just running a high-performance household zoo, I bring precision, flow, and a dash of fun to every solution.
+	
+	my linkeding is https://www.linkedin.com/in/hernan-mateus/
+	Hands-on Technology Experience
+Cloud Platforms and Services: Azure DevOps, Azure Platform Global + China Region, AWS CloudFormation, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS CodeCommit, AWS Control Tower, Alibaba Cloud Container Service for Kubernetes (ACK), Alibaba Cloud monitoring service for Application Performance Management (APM), 	Alibaba Cloud Service Mesh, Alibaba Serverless Kubernetes (ASK), Azure ARM Templates, Azure Enterprise Scale Landing Zone Implementation.
+    AI and Machine Learning: ChatGPT-4, GPT Builder, OpenAI API, DALLE-3, Kubiya.AI, Stability.AI.
+	DevOps and CI/CD Tools: Jenkins, Git, GitFlow, Gradle, Terraform, Kubernetes, SonarQube, Artifactory, Puppet, Chef, Ansible Tower, Nexxus, Docker.
+	Monitoring and Logging: Elasticsearch, Logstash, Kibana, Prometheus, Grafana.
+	Testing and Quality Assurance: RobotFramework, J-Unit, JaCoCo.
+	Project Management and Collaboration Tools: Azure DevOps, JIRA, Confluence.
+	Programming and Scripting: YAML, Shell Scripting, JSON, Python
+	Architectural Patterns and Practices: Serverless Microservices, REST APIs, Site Reliability Engineering, Chaos Testing, Microservices Engine (MSE).
+	
+		Led multi-cloud platform projects, integrating AI for dynamic environment provisioning, reducing infrastructure costs by 50%.   Below is some of the stuff I have done:
+
+	ChatGPT for DevOps Automation: Utilized ChatGPT and Kubiya.ai to automate Azure, AWS, Kubernetes,  and Alicloud cloud deployments in Global and China Regions, seamlessly crafting shell scripts and Dockerfiles for deployment to Azure, Alicloud and AWS ECR and ECS, minimizing manual intervention. This included building and deploying Docker applications, transforming code into architecture diagrams, and automating Azure, AWS, Kubernetes,  or Alicloud deployments using Terraform Infrastructure as Code techniques .
+	Advanced ChatGPT Applications: Implemented the use of ChatGPT plugins for generating PDF reports, creating Mermaid architecture diagrams, and enhancing web browsing capabilities. Automated the generation of Terraform code for Azure, AWS and Alicloud ECS and ECR deployments, README files, and architecture diagrams .
+	ChatGPT for Business Analysis: Enabled client to adopt use of  DALL-E 3 for generating visual content from text prompts, aiding in both professional and creative projects. Used ChatGPT for crafting complex stories, troubleshooting problems, and conducting nuanced analyses through file uploads .
+	AI Customization Mastery: Developed a diverse range of custom GPT agents, including an Email Agent for efficient inbox management, and a Social Media Content Creator for engaging content on Instagram and LinkedIn. Also created a Business Writing Coach AI and a Data Analyst AI for interpreting complex data sets.
+	Practical AI Applications: Applied AI in real-world scenarios, from business writing to personal branding, enhancing communication with an Email Writer AI, designing with AI tools like Canva, and leveraging GPTs for career and business writing. Optimized GPT performance for specific tasks and mastered API integration into CustomGPT for broader functionality.
+	Development of a MASTER GPT: Created a MASTER GPT capable of generating custom actions and codes for creating use-case-specific CustomGPTs. This project enabled the development of specialized AI agents tailored to unique professional and business needs, demonstrating advanced proficiency in AI applications and customization.
+	
+	As a US citizen with a profound professional journey across China and APAC for the past 10 years, I offer unique insights into bridging operations between Western and Eastern technology markets. Fluent in English and intermediate Mandarin, I navigate cross-cultural teams towards more AI-centric DevOps practices, fostering global collaboration and technological excellence.
+	
+	For a Consumer Products Client: Implemented a scalable MLOps pipeline incorporating model version control with MLflow, automated development (AutoML), model serving with BentoML, and governance. This initiative boosted the accuracy and reliability of machine learning models deployed in production while reducing delivery time by 40%.
+
+	For a Financial Services Client: Directed the automation of ML data collection, preparation, and feature generation processes using feature stores, data version control (DVC), and CI/CD pipelines. Enabled faster deployment and retraining cycles with tools like FastAPI and Streamlit, GitHub Actions.
+
+	For an Oil & Gas Client: Spearheaded a multi-cloud DevSecOps solution with DagsHub, Azure App Service, AWS, Kubernetes and Terraform for containerized ML model training and serving. Optimized resource utilization and ensured high availability with automated infrastructure provisioning.
+
+	For a Pharma Client: Introduced monitoring and retraining workflows to ensure models maintained prediction accuracy over time. Leveraged dashboards with Evidently, Prometheus and Grafana for model evaluation, troubleshooting, and documentation, reducing downtime due to concept drift by 60%.
+	
+	Other Key Competencies
+	DevOps Strategy & Leadership
+	AI-Driven CI/CD Automation (kubiya.ai, ChatGPT))
+	Cross-Functional Team Leadership
+	Agile/Scrum Methodologies
+	Cloud Computing and Multi-Cloud Environments
+	System Documentation & Architecture Diagram Automation (ChatGPT))
+	Public/Private Cloud Landing Zone Design & Implementation (AWS, Azure)
+	Digital Technologies and Platform Integration
+	Leading Teams to more AI Centric DevOps practices
+	Web 3.0 - Blockchain hands-on strategy, design & implementation
+
+Challenges I help solve:
+
+
+Ensuring a successful global expansion requires the right team with expertise in Cloud, Agile, MLOps, and DevOps to build and support robust systems. This helps mitigate these challenges and lays a strong foundation for scalable, efficient, and secure operations across new markets.
+
+By anticipating and addressing these challenges, the company can better navigate the complexities of offshoring manufacturing and leveraging AI to enhance operations and support their expansion into new markets.
+Cloud Infrastructure Management
+AI Adoption Challenges
+DevOps Integration
+Performance & Reliability
+Global Compliance & Security
+FinOps
+GenAI for Devops with kubiya.ai
+
+Success Stories 1:
+Transforming E-Commerce with Strategic MLOps Implementation
+Client:
+
+A Fast-Growing E-Commerce Platform
+
+Challenge:
+
+The e-commerce platform needed to scale its machine learning operations to handle increasing data volumes and complex customer behavior patterns. However, the lack of a streamlined integration between data scientists and engineers was slowing down innovation and product development.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team to implement best practices in CI/CD, enabling continuous integration and delivery of machine learning models. By adopting tools like GitHub Actions and Docker, we facilitated seamless collaboration across teams, ensuring that new features could be developed and deployed quickly.
+Outcome:
+
+The e-commerce platform can now roll out new machine learning-driven features 30% faster than before, allowing them to stay competitive in a fast-paced market. This agility has led to a 20% increase in customer retention, as the platform can now offer more personalized shopping experiences in real-time.
+
+key success metrics:  95% increase in faster provisinging of infra, 86% reduction in average test cycle time, 76% reduction in priority incidents, 20% increase in slaes over the last year
+
+
+Success story 2
+Accelerating Financial Insights with Automated Data Processing
+Client:
+
+A Major Financial Services Firm
+
+Challenge:
+
+The client was facing delays in generating actionable insights due to the manual data processing involved in their existing workflows. This inefficiency was slowing down the deployment of machine learning models and hindering their ability to respond quickly to market changes.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team to automate their entire data lifecycle, from collection to preparation and feature generation, using cutting-edge feature stores and data version control systems. We also implemented CI/CD pipelines to enable rapid retraining and deployment of models, keeping them responsive to real-time data.
+Outcome:
+
+The financial services firm saw a 50% reduction in the time required to deploy new models, allowing them to stay ahead of market trends and offer more timely financial insights to their clients. The automation also reduced human error, leading to more accurate predictions and better-informed investment decisions.
+
+key success metrics: 50% increased speed to deploy new ML models, 90% reduction in deployment timeline, 95% reduction in regression effor, 7500 hours/release saved
+
+Success story 3
+Revolutionizing Healthcare with Scalable MLOps
+Client:
+
+A Leading Healthcare Provider
+
+Challenge:
+
+The healthcare provider was struggling with outdated machine learning models that were becoming increasingly inaccurate over time. The existing infrastructure made it difficult to scale, resulting in slow deployment times and reduced confidence in predictive analytics.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team to implement a scalable MLOps pipeline that incorporated model version control, automated development through AutoML, and robust model governance. Our team developed a seamless integration that allowed for continuous monitoring and rapid deployment of updated models, ensuring compliance with healthcare regulations.
+
+Outcome:
+
+The new pipeline not only boosted the accuracy of their machine learning models by 25% but also reduced the deployment time by 40%. This allowed the healthcare provider to make faster, more reliable decisions, ultimately leading to better patient outcomes and more efficient operations.
+
+key success metrics: 25% increase in ML accuracy, 60% increase operational efficiency from cicd and IaC
+
+Success story 4
+Enhancing Compliance in Pharmaceuticals with AI Product Ownership
+Client:
+
+A Leading Pharmaceutical Company
+
+Challenge:
+
+The pharmaceutical company needed to ensure that their machine learning pipelines were compliant with stringent industry regulations. However, the lack of proper versioning, governance, and documentation was making it difficult to maintain compliance and pass audits.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team and  collaborated with stakeholders to align the technical roadmap with business objectives, focusing on versioning, governance, and comprehensive documentation of machine learning pipelines. This ensured that all processes were fully compliant and easily auditable.
+Outcome:
+
+The pharmaceutical company now enjoys streamlined audit processes and full regulatory compliance. The improved governance has also led to faster time-to-market for new drugs, as they can now rely on accurate and compliant data-driven decisions throughout the development process.
+
+key success metrics: 25% reduction in TTM for new drugs from 24 months to 18 months, 95% audits passed without major findings, 40% reduction in audit preparation time, 30% reductioon in compliance-related costs, saving $150K annually
+
+Success story 5
+Ensuring High Availability in Retail with Multi-Cloud MLOps
+Client:
+
+A Global Retailer
+
+Challenge:
+
+The retailer needed to ensure high availability and scalability for their machine learning models across multiple regions. Their existing infrastructure was not optimized for the heavy computational demands of model training and serving, leading to resource inefficiencies and occasional downtime.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team to design and implement a multi-cloud DevSecOps solution leveraging Kubernetes and Terraform. This allowed for containerized model training and serving, with automated infrastructure provisioning to optimize resource utilization.
+Outcome:
+
+The new system ensured high availability and reduced resource costs by 30%. The retailer can now train and deploy models faster, enabling them to personalize customer experiences in real-time and drive increased sales across their global operations.
+
+key success metrics: 60% increase speed to market, from 5 weeks to 2 weeks, 60% reduction in deployment timeline, 50% reduction in regression effort, 80% reduction in new environment provisioning timeline
+
+Success story 6
+Reducing Downtime in Telecommunications with Proactive Model Monitoring
+Client:
+
+A Leading Telecommunications Company
+
+Challenge:
+
+The telecommunications company was experiencing frequent downtimes due to concept drift in their predictive models. This led to inaccurate predictions, affecting customer satisfaction and operational efficiency.
+Solution:
+
+As product owner and lead architect led the sales cycle, and led the DevOps team implementing comprehensive monitoring and retraining workflows to ensure models maintained high prediction accuracy over time. We also set up dashboards for real-time model evaluation and troubleshooting, significantly reducing the time required to identify and correct issues.
+Outcome:
+
+With the new monitoring and retraining workflows, the company reduced downtime due to concept drift by 60%. This proactive approach has enhanced their ability to deliver consistent, high-quality service to their customers, resulting in a measurable increase in customer satisfaction.
+
+key success metrics: 99.9% application availability, 75% improved speed to market from 6 months to 6 weeks, 40% reduction in sprint regression test cycle, 90% reduction in release time (2 days to 2 hours), due to 1-click deploments for 29 global and regional sites
