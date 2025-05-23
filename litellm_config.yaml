@@ -2,3 +2,7 @@ model_list:
   - model_name: deepseek/deepseek-chat
     litellm_provider: deepseek
     api_key: ${DEEPSEEK_API_KEY}
+
+  - model_name: anthropic/claude-3-7-sonnet-latest
+    litellm_provider: anthropic
+    api_key: ${ANTHROPIC_API_KEY}
