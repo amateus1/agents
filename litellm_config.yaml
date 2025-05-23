@@ -1,0 +1,4 @@
+model_list:
+  - model_name: deepseek/deepseek-chat
+    litellm_provider: deepseek
+    api_key: ${DEEPSEEK_API_KEY}
